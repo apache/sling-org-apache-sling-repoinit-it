@@ -36,9 +36,9 @@
   </description>
 
   <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/bundles/extensions/repoinit/it</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/bundles/extensions/repoinit/it</developerConnection>
-    <url>https://svn.apache.org/repos/asf/sling/trunk/bundles/extensions/repoinit/it</url>
+    <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-repoinit-it.git</connection>
+    <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-repoinit-it.git</developerConnection>
+    <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-repoinit-it.git</url>
   </scm>
 
  <properties>
